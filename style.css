@@ -1,0 +1,19 @@
+.panda-bg-info{
+    background-color: #FEEAE9;
+}
+.watch-bg-color{
+    background-color: #FFD019;
+}
+.bag-bg-color{
+    background-color: #FF136F;
+}
+.shoes-bg-color{
+    background-color: #3F07F8;
+}
+.panda-batton-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
